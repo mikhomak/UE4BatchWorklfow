@@ -9,7 +9,7 @@ Go watch this video, it's amazing and subscribe to his chanel, it's really good
 
 # Usage:
 1. Open the terminal in this folder
-2. Use `Build` to compile your project. To compile you need to close Unreal Engine Editor
+2. Use `Build` to compile your project. You need to close Unreal Engine Editor
 2. Use `Editor` to open the editor
 
 # Credtis:
