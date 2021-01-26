@@ -3,7 +3,7 @@ Go watch this video, it's amazing and subscribe to his chanel, it's really good
 
 
 # Instalation:
-1. Put those `Build.bat`, `Editor.bat` and `Vars.bat` in your root project folder (where `./YourProjectName/YourProjectName.uproject`).
+1. Put those `Build.bat`, `Editor.bat` and `Vars.bat` in your root project in (where `./YourProjectName/YourProjectName.uproject`).
 2. In `Vars.bat` change `set PROJECT=YoutProjectName` to your project name and `set UE4_DIR=RouteToYourUnrealEngine4` to the path to your Unreal Engine(example : `O:\Programs\Unreal Engine\UE_4.26`)
 
 
