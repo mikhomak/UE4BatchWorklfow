@@ -2,7 +2,7 @@ Bat files to compile your Unreal Engine 4 C++ project I found in [this video](ht
 Go watch this video, it's amazing and subscribe to his chanel, it's really good  
 
 
-# Instalation:
+# Installation:
 1. Put those `Build.bat`, `Editor.bat` and `Vars.bat` in your root project folder (where `./YourProjectName/YourProjectName.uproject`).
 2. In `Vars.bat` change `set PROJECT=YoutProjectName` to your project name and `set UE4_DIR=RouteToYourUnrealEngine4` to the path to your Unreal Engine(example : `O:\Programs\Unreal Engine\UE_4.26`)
 
